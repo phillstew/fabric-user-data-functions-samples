@@ -78,7 +78,7 @@
             "data":"DataManipulation/transform_data_with_numpy.py"
          }
       ]
-   }.
+   },
    {
       "name":"Fabric AI Functions",
       "description":"Sample functions to transform data using Fabric AI Functions.",
