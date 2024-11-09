@@ -78,5 +78,17 @@
             "data":"DataManipulation/transform_data_with_numpy.py"
          }
       ]
+   }.
+   {
+      "name":"Fabric AI Functions",
+      "description":"Sample functions to transform data using Fabric AI Functions.",
+      "data":[
+         {
+            "name":"Translate data with Fabric AI function",
+            "description":"This sample uses translate text using a Fabric AI Function",
+            "dateAdded":"2024-11-05T00:00:00Z",
+            "data":"Fabric_AI_Samples/fabricaifunctions.py"
+         },        
+      ]
    }
 ]
